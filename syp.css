@@ -1,0 +1,51 @@
+
+* {
+    padding: 0; 
+    margin: 0;
+    list-style:none;
+}
+h1{
+    color: #ff0000;
+    margin:30px 0;
+}
+body {
+
+    text-align:center;
+
+}
+
+   li {
+
+    float:left; 
+
+    font-size:20px;
+
+}
+
+   a {
+
+    float:left; 
+
+    border:1px solid #000; 
+
+    padding:5px 10px; 
+
+    text-decoration:none; 
+
+    color:#000;
+
+}
+
+ul {
+
+    display:inline-block; 
+
+    *display:inline; 
+
+    zoom:1;
+
+}
+footer{
+    clear: both;
+    margin-top:600px;
+}    
